@@ -1,2 +1,2 @@
 #!/bin/bash
-tail /ietc/passwd
+tail /etc/passwd
