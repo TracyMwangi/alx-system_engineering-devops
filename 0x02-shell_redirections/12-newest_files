@@ -1,2 +1,2 @@
 #!/bin/bash
-head ls -lt /0x02-shell_redirections
+find /0x02-shell_redirections -type f -printf "%t - %p\n" | sort -n | head
