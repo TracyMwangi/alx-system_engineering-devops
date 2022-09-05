@@ -1,2 +1,2 @@
 #!/bin/bash
-head ls -lt 0x02-shell_redirections
+head ls -lt /0x02-shell_redirections
